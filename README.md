@@ -48,10 +48,10 @@ python3 WP_Scanner.py -u https://www.jollibee.com.ph
 ```
 #### Example Output
 ```
-  █ █ █ █▀█   █▀ █▀▀ ▄▀█ █▄ █ █▄ █ █▀▀ █▀█
+   █ █ █ █▀█   █▀ █▀▀ ▄▀█ █▄ █ █▄ █ █▀▀ █▀█
   ▀▄▀▄▀ █▀▀   ▄█ █▄▄ █▀█ █ ▀█ █ ▀█ ██▄ █▀▄ 
  ------------------------------------------
- [+]  Optimized & Recode by @mkdirlove  [+]
+ [+]   officialallan10k  -  mkdirlove   [+]
  ------------------------------------------
 
 
@@ -67,14 +67,16 @@ python3 WP_Scanner.py -u https://www.jollibee.com.ph
 
  [+] Enumerating Plugins : 
 
- [*]  elementor
- [*]  akismet
- [*]  wp
- [*]  oembed
- [*]  wp-block-editor
- [*]  wp-site-health
- [*]  elementor-pro
- [*]  yoast
+ [+] Found [+] 200 https://www.jollibee.com.ph/wp-content/plugins/wordpress-seo/ Version: 17.7.1
+ [+] Found [+] 200 https://www.jollibee.com.ph/wp-content/plugins/updraftplus/ Version: 1
+ [+] Found [+] 200 https://www.jollibee.com.ph/wp-content/plugins/cloudflare/ Version: 4.8.3
+ [+] Found [+] 200 https://www.jollibee.com.ph/wp-content/plugins/eps-301-redirects/ Version: 2.72
+ [+] Found [+] 200 https://www.jollibee.com.ph/wp-content/plugins/file-manager-advanced/ Version: 4.1
+ [+] Found [+] 200 https://www.jollibee.com.ph/wp-content/plugins/astra-import-export/ Version: 1.0.5
+ [+] Found [+] 200 https://www.jollibee.com.ph/wp-admin/edit-tags.php
+ [+] Found [+] 200 https://www.jollibee.com.ph/wp-admin/link-manager.php
+ [+] Found [+] 200 https://www.jollibee.com.ph/wp-admin/post.php
+ [+] Found [+] 200 https://www.jollibee.com.ph
 
  [+] Admin panel found -  https://www.jollibee.com.ph/wp-login.php
 
@@ -83,5 +85,7 @@ python3 WP_Scanner.py -u https://www.jollibee.com.ph
  [*] Username Found : jakob-langsethinvestisdigital-com
  [*] Username Found : jfc-admin
  [*] Username Found : ryan-pernackinvestisdigital-com
+
+ [ Thank you for using my tool ]
 ```
 
