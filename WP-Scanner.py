@@ -1,6 +1,8 @@
 # Optimized and Recode by @mkdirlove
 # Python 3.10.0
 # For Education Purposes Only
+# Greetz to all the members of DefacerPH <3
+
 import argparse,requests,json,re,os
 from time import sleep
 from random import randint
