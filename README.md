@@ -17,6 +17,9 @@ git clone https://github.com/mkdirlove/WP-Scanner.git
 cd WP-Scanner
 ```
 ```
+python3 -m pip install -r requirements.txt
+```
+```
 python3 WP-Scanner.py -h
 ```
 #### Usage
