@@ -1,4 +1,4 @@
-# Optimized and Recode by @mkdirlove
+# Optimized and Recode by @mkdirlove 
 # Credits to https://github.com/officialallan10k
 # Python 3.10.0
 # For Education Purposes Only
