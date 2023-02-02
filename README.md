@@ -22,6 +22,10 @@ python3 -m pip install -r requirements.txt
 ```
 python3 WP-Scanner.py -h
 ```
+or
+```
+python3 WP_ScannerV2.py -h
+```
 #### Usage
 ``` 
   █ █ █ █▀█   █▀ █▀▀ ▄▀█ █▄ █ █▄ █ █▀▀ █▀█
