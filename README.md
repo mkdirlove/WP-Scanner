@@ -4,6 +4,7 @@
   <br>
   Optimized version of WP_Scanner by GH0STH4CKER.
   <br>
+  Forked from https://github.com/GH0STH4CKER/WP_Scanner.git
 </h1>
 
 #### Installation
